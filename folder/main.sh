@@ -62,7 +62,7 @@ echo -e ""
 checking_sc
 
 # REPO
-REPO="https://raw.githubusercontent.com/Daffastorevps/Script/master/"
+REPO="https://raw.githubusercontent.com/Daffastorevps/vvip/master/"
 REPO2="https://raw.githubusercontent.com/zhetsai/ScriptAutoInstall-xdxl/master/"
 
 start=$(date +%s)
