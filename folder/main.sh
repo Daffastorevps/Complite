@@ -652,7 +652,7 @@ echo "Banner /etc/fvstore.txt" >>/etc/ssh/sshd_config
 sed -i 's@DROPBEAR_BANNER=""@DROPBEAR_BANNER="/etc/fvstore.txt"@g' /etc/default/dropbear
 
 # Ganti Banner
-wget -q -O /etc/fvstore.txt "https://raw.githubusercontent.com/yuliusvpn/vvip/main/ssh/issue.net"
+wget -q -O /etc/fvstore.txt "https://raw.githubusercontent.com/Daffastorevps/vvip/master/ssh/issue.net"
 print_selesai "Fail2ban"
 }
 
